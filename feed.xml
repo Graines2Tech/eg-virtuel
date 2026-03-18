@@ -3,7 +3,7 @@
     <title>The Bo$$</title>
     <link href="https://graines2tech.github.io/eg-virtuel/feed.xml" rel="self" />
     <link href="https://graines2tech.github.io/eg-virtuel" />
-    <updated>2026-03-18T12:28:58+01:00</updated>
+    <updated>2026-03-18T13:21:16+01:00</updated>
     <author>
         <name>The Boss</name>
     </author>
@@ -21,38 +21,38 @@
         <updated>2019-08-16T20:49:00+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Mesecon, c'est le mode qui va bien dès que tu veux faire un peu de mécanismes dans ton minetest quoi. J'ai ajouté dans mon monde plein de mécanismes. Pour sortir de chaque pièce, il faut utiliser ce genre d'objets: Et bien sûr, il y a&hellip;
+                    Mesecon, c'est le mode qui va bien dès que tu veux faire un peu de mécanismes dans ton Luanti/Minetest, quoi. J'ai ajouté dans mon monde plein de mécanismes. Pour sortir de chaque pièce, il faut utiliser ce genre d'objets: Et bien sûr, il y a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Mesecon, c'est le mode qui va bien dès que tu veux faire un peu de mécanismes dans ton minetest quoi.<br><br>J'ai ajouté dans mon monde plein de mécanismes. Pour sortir de chaque pièce, il faut utiliser ce genre d'objets:
+    Mesecon, c'est le mode qui va bien dès que tu veux faire un peu de mécanismes dans ton Luanti/Minetest, quoi.<br><br>J'ai ajouté dans mon monde plein de mécanismes. Pour sortir de chaque pièce, il faut utiliser ce genre d'objets:
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/levier_mesecons.png" height="256" width="256" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-2xl.png 1920w">
-      <figcaption>Levier a activer avec Clic Droit</figcaption>
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/levier_mesecons.png" height="256" width="256" alt="Levier à activer avec un clic droit"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-2xl.png 1920w">
+      <figcaption>Levier à activer avec un clic droit</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/plaque-pression_mesecons.png" height="256" width="256" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-2xl.png 1920w">
-      <figcaption>Plaque de pression a activer en restant dessus</figcaption>
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/plaque-pression_mesecons.png" height="256" width="256" alt="Plaque de pression à activer en restant dessus"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-2xl.png 1920w">
+      <figcaption>Plaque de pression à activer en restant dessus</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/turbine_mesecons.png" height="256" width="256" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-2xl.png 1920w">
-      <figcaption>Turbine a activer en fesant arriver de l'eau dessus</figcaption>
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/turbine_mesecons.png" height="256" width="256" alt="Turbine à activer en faisant arriver de l'eau dessus"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-2xl.png 1920w">
+      <figcaption>Turbine à activer en faisant arriver de l'eau dessus</figcaption>
     </figure>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/detecteur-joueur_mesecons.png" height="256" width="256" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-2xl.png 1920w">
-      <figcaption>Detecteur de joueur, il est caché dans les wc!</figcaption>
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/detecteur-joueur_mesecons.png" height="256" width="256" alt="Détecteur de joueur, il est caché dans les wc!"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-2xl.png 1920w">
+      <figcaption>Détecteur de joueur, il est caché dans les wc!</figcaption>
     </figure>
 
   <p>
-    Et bien sûr, il y a un trône dans chaque pièce où je dois m'asseoir pour que l'image apparaisse et que la porte vers la pièce suivante s'ouvre.<br><br>Connectes-toi à mon instance minetest pour venir voir tout ça: l'adresse est dans les liens à droite.
+    Et bien sûr, il y a un trône dans chaque pièce où je dois m'asseoir pour que l'image apparaisse et que la porte vers la pièce suivante s'ouvre.<br><br>Connecte-toi à mon instance Luanti/Minetest pour venir voir tout ça : l'adresse est sur la page d'accueil de ce blog...
   </p>
 
   <p>
@@ -73,14 +73,14 @@
         <updated>2019-08-16T20:49:00+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    J'ai trouvé une nouvelle façon de se repérer sur la planète Terre: utiliser une série de trois mots. C'est what3words.com qui fait ça. Sur leur site, tu peux trouver n'importe quel lieu et récupérer les 3 mots qui permettent de le localiser. Tu peux aussi&hellip;
+                    J'ai trouvé une nouvelle façon de se repérer sur la planète Terre : utiliser une série de trois mots. C'est what3words.com qui fait ça. Sur leur site, tu peux trouver n'importe quel lieu et récupérer les 3 mots qui permettent de le localiser. Tu peux&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    J'ai trouvé une nouvelle façon de se repérer sur la planète Terre: utiliser une série de trois mots.<br><br>C'est <a href="https://what3words.com" title="What3Words" target="_blank">what3words.com</a> qui fait ça. Sur leur site, tu peux trouver n'importe quel lieu et récupérer les 3 mots qui permettent de le localiser. Tu peux aussi donner une série de 3 mots, et <a href="https://what3words.com" title="What3Words">what3words</a> retrouve le lieu.<br><br>Si tu veux essayer, cherches à quoi correspond alle ammmm.jinin: tu devrais tomber sur la cathédrale de Strasbourg.
+    J'ai trouvé une nouvelle façon de se repérer sur la planète Terre : utiliser une série de trois mots.<br><br>C'est <a href="https://what3words.com" title="What3Words" target="_blank">what3words.com</a> qui fait ça. Sur leur site, tu peux trouver n'importe quel lieu et récupérer les 3 mots qui permettent de le localiser. Tu peux aussi donner une série de 3 mots, et <a href="https://what3words.com" title="What3Words" class="" data-link-popup-id="11766a22-7584-448c-bb94-665f1a869053">what3words</a> retrouve le lieu.<br><br>Si tu veux essayer, cherche à quoi correspond <strong>halte.dorant.joliment</strong> : tu devrais tomber sur la cathédrale de Strasbourg.
   </p>
 
     <figure class="post__image post__image--center">
@@ -89,13 +89,13 @@
     </figure>
 
   <p>
-    J'ai été faire un tour dans toute l'Alsace pour trouver des lieux sympas, et j'ai ramené 6 photos de lieux: une pour chaque salle de mon instance minetest.<br><br>Si tu veux retrouver le login de mon site pour lancer et arrêter les virus, il suffit de<br><br>1. découvrir les photos dans mon instance minetest; penses à bien les noter dans l'ordre!<br><br>2. trouver les cartes marqueurs qui correspondent à ces lieux<br><br>3. aller sur le site <a href="https://ar.is4ri.com/eg-virtuel.html" title="AR Virtual - IS4RI" target="_blank">https://ar.is4ri.com/eg-virtuel.html</a> pour voir les lettres en réalité augmentée<br><br>C'est presque trop facile!
+    J'ai été faire un tour dans toute l'Alsace pour trouver des lieux sympas, et j'ai ramené 6 photos de lieux : une pour chaque salle de mon instance Luanti/Minetest.<br><br>Si tu veux retrouver le login de mon site pour lancer et arrêter les virus, il suffit de :<br><br>1. découvrir les photos dans mon instance Luanti/Minetest ; pense à bien les noter dans l'ordre!<br><br>2. trouver les cartes marqueurs qui correspondent à ces lieux<br><br>3. utiliser l'app <mark><strong>Mirage Make</strong></mark> pour voir les lettres en réalité augmentée<br><br>C'est presque trop facile!
   </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Outil pour lancer des virus, ou les arreter !</title>
+        <title>Outil pour lancer des virus, ou les arrêter !</title>
         <author>
             <name>The Boss</name>
         </author>
@@ -106,14 +106,14 @@
         <updated>2019-06-20T20:49:00+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    J'ai fait un petit site pour lancer et arreter mes virus : ca fonctionne tout seul, c'est automatique ! Comme ca, plus besoin de ma lever tot :) Bien sur, il faut un Login et un mot de passe, que j'ai planqué dans mon serveur&hellip;
+                    J'ai fait un petit site pour lancer et arrêter mes virus : ça fonctionne tout seul, c'est automatique ! Comme ça, plus besoin de me lever tôt :) Bien sûr, il faut un login et un mot de passe, que j'ai planqués dans mon serveur&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    J'ai fait un petit site pour lancer et arreter mes virus : ca fonctionne tout seul, c'est automatique ! Comme ca, plus besoin de ma lever tot :)
+    J'ai fait <mark><strong>un petit site pour lancer et arrêter mes virus</strong></mark> : ça fonctionne tout seul, c'est automatique ! Comme ça, plus besoin de me lever tôt :)
   </p>
 
     <figure class="post__image post__image--center">
@@ -124,13 +124,13 @@
     </figure>
 
   <p>
-    Bien sur, il faut un Login et un mot de passe, que j'ai planqué dans mon serveur Minetest
+    Bien sûr, il faut un login et un mot de passe, que j'ai planqués <mark><strong>dans mon serveur Luanti/Minetest</strong></mark>. Cherche sur mon blog, tu trouveras plus d'infos!
   </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Minetest, a fond les Mods !</title>
+        <title>Luanti/Minetest, à fond les Mods !</title>
         <author>
             <name>The Boss</name>
         </author>
@@ -141,7 +141,7 @@
         <updated>2019-05-16T20:35:00+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Ca y est, j'ai ajouté des mods persos dans mon serveur. Je me suismeme crée une trone. Et personne d'autre que moi peut s'assoir dessus !
+                    Ca y est, j'ai ajouté des mods persos dans mon serveur. Je me suis même créé un trône. Et personne d'autre que moi ne peut s'asseoir dessus !
                 ]]>
             </summary>
         <content type="html">
@@ -152,7 +152,7 @@
   </p>
 
   <p>
-    Je me suismeme crée une trone.
+    Je me suis même créé un trône.
   </p>
 
     <figure class="post__image post__image--center">
@@ -161,7 +161,7 @@
     </figure>
 
   <p>
-    Et personne d'autre que moi peut s'assoir dessus !
+    Et personne d'autre que moi ne peut s'asseoir dessus !
   </p>
             ]]>
         </content>
@@ -220,15 +220,15 @@
   </p>
 
   <p>
-    Je me suis rendu compte que&nbsp; le mot de passe de mon compte&nbsp; sur mon serveur minetest est dedans ! Pas de bol...
+    Je me suis rendu compte que <mark><strong>le mot de passe de mon compte pour mon instance Luanti/Minetest est dedans</strong></mark> ! Pas de bol...
   </p>
 
   <p>
-    Je regarde encore un peu et il va bien avec mon pseudo
+    Je le garde encore un peu, parce qu'il va bien avec mon pseudo!
   </p>
 
   <p>
-    Heureusement mon mot de passe n'est pas dans les 10 premiers...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Et oui, même les hackers ont des mot de passes pourris dans les 15 premiers de la liste :)
+    Heureusement mon mot de passe n'est <mark><strong>pas dans les 10 premiers</strong></mark>...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Et oui, même les hackers ont des mot de passe pourris <mark><strong>dans les 15 premiers de cette liste</strong></mark> :) Sauf que les braves gens vont pas essayer de pirater les hackers lol!
   </p>
             ]]>
         </content>
@@ -246,23 +246,32 @@
         <updated>2018-12-11T07:54:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    La réalité augmentée, c'est trop bien! J'ai créé des formes en 3D avec des lettres écrites dessus. Et j'ai créé un site qui permet de voir ces formes: il suffit d'aller sur le site (http://ar.is4ri.com/eg-virtuel.html), d'accepter qu'il utilise la caméra, et de passer une carte&hellip;
+                    La réalité augmentée, c'est trop bien! J'ai créé des formes et des lettres en 3D. Et j'utilise une app qui permet de voir ces formes : il suffit d'ouvrir Mirage Make (MM) sur la tablette, d'accepter qu'elle utilise la caméra, et de passer une carte&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    La réalité augmentée, c'est trop bien!<br><br>J'ai créé des formes en 3D avec des lettres écrites dessus.<br><br>Et j'ai créé un site qui permet de voir ces formes: il suffit d'aller sur le site (http://ar.is4ri.com/eg-virtuel.html), d'accepter qu'il utilise la caméra, et de passer une carte marqueur devant la caméra pour voir la forme.<br><br>Une carte marqueur, c'est un peu comme un QR-code. Moi, j'ai utilisé des barcodes, comme celui là par exemple:<br>
+    La réalité augmentée, c'est trop bien!<br><br>J'ai créé des formes et des lettres en 3D.<br><br>Et j'utilise une app qui permet de voir ces formes : il suffit d'<mark><strong>ouvrir Mirage Make (MM) sur la tablette</strong></mark>, d'accepter qu'elle utilise la caméra, et de passer une carte marqueur devant la caméra pour voir la forme.
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/7/Capture-decran-2025-11-26-105628.png" height="190" width="193" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-2xl.png 1920w">
-      
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/7/MirageMake_icon.jpg" height="140" width="140" alt="Mirage Make"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/MirageMake_icon-xs.jpg 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/MirageMake_icon-sm.jpg 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/MirageMake_icon-md.jpg 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/MirageMake_icon-lg.jpg 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/MirageMake_icon-xl.jpg 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/MirageMake_icon-2xl.jpg 1920w">
+      <figcaption>Mirage Make</figcaption>
     </figure>
 
   <p>
-    Et sur mes formes en 3D, j'ai mis lettres du mot de passe de mon sile pour lancer et arrêter mes vnus. Il suffit de mettre les cartes marqueurs dans l'ordre et de les lire avec le site de réalité augmentée pour avoir toutes les lettres.<br><br>Et pour avoir l'ordre des cartes, il faut suivre l'ordre des salles de mon serveur minetest, facile!
+    Une carte marqueur, c'est un peu comme un QR-code, comme celui là par exemple :<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/7/faux4.png" height="385" width="388" alt="carte marqueur"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/faux4-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/faux4-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/faux4-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/faux4-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/faux4-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/faux4-2xl.png 1920w">
+      <figcaption>carte marqueur</figcaption>
+    </figure>
+
+  <p>
+    Et mes lettres en 3D, c'est <mark><strong>les lettres du mot de passe de mon site pour lancer et arrêter mes virus</strong></mark>. Il suffit de mettre les cartes marqueurs dans l'ordre et de les lire avec l'app <mark><strong>Mirage Make (MM)</strong></mark> pour avoir toutes les lettres.<br><br>Et pour avoir l'ordre des cartes, il faut suivre l'ordre des salles de mon instance Luanti/Minetest, facile!
   </p>
             ]]>
         </content>
@@ -279,14 +288,14 @@
         <updated>2018-05-10T06:30:00+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Avec la police wingdings, chaque lettre/chiffre/accent/etc. est transformé en un symbole. Regarde ça: Donc si tu veux dire salut, ca donnera ca : Si tu l'utilise pour un mot de passe, fait attention au majuscules et minuscules.
+                    Avec la police wingdings, chaque lettre/chiffre/accent/etc est transformé en un symbole. Regarde ça : Donc si tu veux crypter "Salut!", ça donnera ça : Cool, non? Si tu l'utilises pour un mot de passe, fais attention aux majuscules et minuscules!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Avec la police wingdings, chaque lettre/chiffre/accent/etc. est transformé en un symbole.<br><br>Regarde ça:
+    Avec la police wingdings, chaque lettre/chiffre/accent/etc est transformé en un symbole.<br><br>Regarde ça :
   </p>
 
     <figure class="post__image post__image--center">
@@ -295,7 +304,7 @@
     </figure>
 
   <p>
-    Donc si tu veux dire salut, ca donnera ca :
+    Donc si tu veux crypter "Salut!", ça donnera ça :
   </p>
 
     <figure class="post__image post__image--center">
@@ -304,7 +313,11 @@
     </figure>
 
   <p>
-    Si tu l'utilise pour un mot de passe, fait attention au majuscules et minuscules.
+    Cool, non?
+  </p>
+
+  <p>
+    Si tu l'utilises pour un mot de passe, <mark><strong>fais attention aux majuscules et minuscules</strong></mark>!
   </p>
             ]]>
         </content>
@@ -321,22 +334,18 @@
         <updated>2018-03-06T10:30:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Catherine&nbsp; me fait decouvrir sa passion du moment, le pixel-art et j'en suis fan. Les djeuns adorent et en redemande. Moi aussi ;) Et voici, l'etoile Super Mario:&nbsp; J'ai trouvé comment coder des images pour faire des petits defis entre potes, je vous en reparlerai.
+                    Catherine&nbsp; me fait découvrir sa passion du moment, le Pixel art et j'en suis fan. Les djeuns adorent et en redemande. Moi aussi ;) Et voici... l'étoile de Super Mario :&nbsp; J'ai trouvé comment coder des images pour faire des petits défis entre potes, je&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    
+    Catherine&nbsp; me fait découvrir sa passion du moment, le <strong>Pixel art</strong> et j'en suis fan. Les djeuns adorent et en redemande. Moi aussi ;)
   </p>
 
   <p>
-    Catherine&nbsp; me fait decouvrir sa passion du moment, le pixel-art et j'en suis fan. Les djeuns adorent et en redemande. Moi aussi ;)
-  </p>
-
-  <p>
-    Et voici, l'etoile Super Mario:&nbsp;
+    Et voici... l'étoile de Super Mario :&nbsp;
   </p>
 
     <figure class="post__image post__image--center">
@@ -345,13 +354,13 @@
     </figure>
 
   <p>
-    J'ai trouvé comment coder des images pour faire des petits defis entre potes, je vous en reparlerai.
+    J'ai trouvé comment coder des images pour faire des petits défis entre potes, je vous en reparle.
   </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Joyeux Noël: mon serveur minetest enfin en ligne!</title>
+        <title>Joyeux Noël : mon serveur Luanti/Minetest enfin en ligne!</title>
         <author>
             <name>The Boss</name>
         </author>
@@ -362,14 +371,14 @@
         <updated>2018-02-25T10:43:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Salut les gens, et pour te souhaiter un joyeux noël, je t'offre l'adresse de mon serveur minetest: Je t'attends sur place. Enfin, c'est toi qui m'attends: pour sortir de la pièce d'arrivée, il faut être au moins 4 joueurs connectés, dont moi! Voilà le plan:&hellip;
+                    Salut les gens, et pour te souhaiter un joyeux noël, je t'offre l'adresse de mon serveur Luanti/Minetest (va voir sur la page d'accueil) ! Je t'attends sur place. Enfin, c'est toi qui m'attends : pour sortir de la pièce d'arrivée, il faut être au moins&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    Salut les gens,<br><br>et pour te souhaiter un joyeux noël, je t'offre l'adresse de mon serveur minetest:<br><br>Je t'attends sur place. Enfin, c'est toi qui m'attends: pour sortir de la pièce d'arrivée, il faut être au moins 4 joueurs connectés, dont moi!<br><br>Voilà le plan:
+    Salut les gens,<br><br>et pour te souhaiter un joyeux noël, je t'offre l'adresse de mon serveur Luanti/Minetest (va voir sur la page d'accueil) !<br><br>Je t'attends sur place. Enfin, c'est toi qui m'attends : pour sortir de la pièce d'arrivée, il faut être au moins 4 joueurs connectés, dont moi!<br><br>Voilà le plan:
   </p>
 
     <figure class="post__image post__image--center">
@@ -378,7 +387,7 @@
     </figure>
 
   <p>
-    La petite salle au centre, c'est la salle d'attente. Tout le monde est bloqué dans cette salle tant que je ne suis pas connecté.<br><br>Ensuite, il y a 6 salles qui contiennent des photos de lieu en Alsace. Avec les cartes marqueurs et la réalité augmentée, tu pourras retrouver arrêter les virus.<br><br>Enfin, la toute dernière salle en haut à gauche sur le plan contient le mot de passe crypté de mon site. Pour le décrypter, c'est facile: un peu transformer les symboles en lettres, et le tour est joué!
+    La petite salle au centre, c'est la salle d'attente. Tout le monde est bloqué dans cette salle tant que je ne suis pas connecté.<br><br>Ensuite, il y a 6 salles qui contiennent des photos de lieux en Alsace. Avec les cartes marqueurs et la réalité augmentée, tu pourras retrouver le login de mon site pour lancer et arrêter les virus.<br><br>Enfin, la toute dernière salle en haut à gauche sur le plan contient le mot de passe crypté de mon site. Pour le décrypter, c'est facile: un peu de pixel art, un peu de hacking pour transformer les symboles en lettres, et le tour est joué!
   </p>
             ]]>
         </content>
