@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>The Bo$$</title>
+    <link href="https://graines2tech.github.io/eg-virtuel/feed.xml" rel="self" />
+    <link href="https://graines2tech.github.io/eg-virtuel" />
+    <updated>2025-11-26T12:27:17+01:00</updated>
+    <author>
+        <name>The Boss</name>
+    </author>
+    <id>https://graines2tech.github.io/eg-virtuel</id>
+
+    <entry>
+        <title>Presentation du mode Minetest : Mesecon</title>
+        <author>
+            <name>The Boss</name>
+        </author>
+        <link href="https://graines2tech.github.io/eg-virtuel/presentation-du-mode-minetest-mesecon.html"/>
+        <id>https://graines2tech.github.io/eg-virtuel/presentation-du-mode-minetest-mesecon.html</id>
+            <category term="minetest"/>
+
+        <updated>2019-08-16T20:49:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Mesecon, c'est le mode qui va bien dès que tu veux faire un peu de mécanismes dans ton minetest quoi. J'ai ajouté dans mon monde plein de mécanismes. Pour sortir de chaque pièce, il faut utiliser ce genre d'objets: Et bien sûr, il y a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Mesecon, c'est le mode qui va bien dès que tu veux faire un peu de mécanismes dans ton minetest quoi.<br><br>J'ai ajouté dans mon monde plein de mécanismes. Pour sortir de chaque pièce, il faut utiliser ce genre d'objets:
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/levier_mesecons.png" height="256" width="256" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/levier_mesecons-2xl.png 1920w">
+      <figcaption>Levier a activer avec Clic Droit</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/plaque-pression_mesecons.png" height="256" width="256" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/plaque-pression_mesecons-2xl.png 1920w">
+      <figcaption>Plaque de pression a activer en restant dessus</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/turbine_mesecons.png" height="256" width="256" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/turbine_mesecons-2xl.png 1920w">
+      <figcaption>Turbine a activer en fesant arriver de l'eau dessus</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/12/detecteur-joueur_mesecons.png" height="256" width="256" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/12/responsive/detecteur-joueur_mesecons-2xl.png 1920w">
+      <figcaption>Detecteur de joueur, il est caché dans les wc!</figcaption>
+    </figure>
+
+  <p>
+    Et bien sûr, il y a un trône dans chaque pièce où je dois m'asseoir pour que l'image apparaisse et que la porte vers la pièce suivante s'ouvre.<br><br>Connectes-toi à mon instance minetest pour venir voir tout ça: l'adresse est dans les liens à droite.
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Geo-localiser en trois mots</title>
+        <author>
+            <name>The Boss</name>
+        </author>
+        <link href="https://graines2tech.github.io/eg-virtuel/geo-localiser-en-trois-mots.html"/>
+        <id>https://graines2tech.github.io/eg-virtuel/geo-localiser-en-trois-mots.html</id>
+            <category term="geo-localisation"/>
+
+        <updated>2019-08-16T20:49:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    J'ai trouvé une nouvelle façon de se repérer sur la planète Terre: utiliser une série de trois mots. C'est what3words.com qui fait ça. Sur leur site, tu peux trouver n'importe quel lieu et récupérer les 3 mots qui permettent de le localiser. Tu peux aussi&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    J'ai trouvé une nouvelle façon de se repérer sur la planète Terre: utiliser une série de trois mots.<br><br>C'est <a href="https://what3words.com" title="What3Words" target="_blank">what3words.com</a> qui fait ça. Sur leur site, tu peux trouver n'importe quel lieu et récupérer les 3 mots qui permettent de le localiser. Tu peux aussi donner une série de 3 mots, et <a href="https://what3words.com" title="What3Words">what3words</a> retrouve le lieu.<br><br>Si tu veux essayer, cherches à quoi correspond alle ammmm.jinin: tu devrais tomber sur la cathédrale de Strasbourg.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/13/Capture-decran-2025-11-26-120954.png" height="325" width="441" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/13/responsive/Capture-decran-2025-11-26-120954-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/13/responsive/Capture-decran-2025-11-26-120954-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/13/responsive/Capture-decran-2025-11-26-120954-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/13/responsive/Capture-decran-2025-11-26-120954-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/13/responsive/Capture-decran-2025-11-26-120954-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/13/responsive/Capture-decran-2025-11-26-120954-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    J'ai été faire un tour dans toute l'Alsace pour trouver des lieux sympas, et j'ai ramené 6 photos de lieux: une pour chaque salle de mon instance minetest.<br><br>Si tu veux retrouver le login de mon site pour lancer et arrêter les virus, il suffit de<br><br>1. découvrir les photos dans mon instance minetest; penses à bien les noter dans l'ordre!<br><br>2. trouver les cartes marqueurs qui correspondent à ces lieux<br><br>3. aller sur le site <a href="https://ar.is4ri.com/eg-virtuel.html" title="AR Virtual - IS4RI" target="_blank">https://ar.is4ri.com/eg-virtuel.html</a> pour voir les lettres en réalité augmentée<br><br>C'est presque trop facile!
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Outil pour lancer des virus, ou les arreter !</title>
+        <author>
+            <name>The Boss</name>
+        </author>
+        <link href="https://graines2tech.github.io/eg-virtuel/outil-pour-lancer-des-virus-ou-les-arreter.html"/>
+        <id>https://graines2tech.github.io/eg-virtuel/outil-pour-lancer-des-virus-ou-les-arreter.html</id>
+            <category term="hacking"/>
+
+        <updated>2019-06-20T20:49:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    J'ai fait un petit site pour lancer et arreter mes virus : ca fonctionne tout seul, c'est automatique ! Comme ca, plus besoin de ma lever tot :) Bien sur, il faut un Login et un mot de passe, que j'ai planqué dans mon serveur&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    J'ai fait un petit site pour lancer et arreter mes virus : ca fonctionne tout seul, c'est automatique ! Comme ca, plus besoin de ma lever tot :)
+  </p>
+
+    <figure class="post__image post__image--center">
+      <a href="https://lockee.fr/0/jFC/LoginVirus">
+        <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/14/Capture-decran-2025-11-26-121624.png" height="334" width="522" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/14/responsive/Capture-decran-2025-11-26-121624-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/14/responsive/Capture-decran-2025-11-26-121624-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/14/responsive/Capture-decran-2025-11-26-121624-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/14/responsive/Capture-decran-2025-11-26-121624-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/14/responsive/Capture-decran-2025-11-26-121624-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/14/responsive/Capture-decran-2025-11-26-121624-2xl.png 1920w">
+      </a>
+      
+    </figure>
+
+  <p>
+    Bien sur, il faut un Login et un mot de passe, que j'ai planqué dans mon serveur Minetest
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Minetest, a fond les Mods !</title>
+        <author>
+            <name>The Boss</name>
+        </author>
+        <link href="https://graines2tech.github.io/eg-virtuel/minetest-a-fond-les-mods.html"/>
+        <id>https://graines2tech.github.io/eg-virtuel/minetest-a-fond-les-mods.html</id>
+            <category term="minetest"/>
+
+        <updated>2019-05-16T20:35:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Ca y est, j'ai ajouté des mods persos dans mon serveur. Je me suismeme crée une trone. Et personne d'autre que moi peut s'assoir dessus !
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Ca y est, j'ai ajouté des mods persos dans mon serveur.
+  </p>
+
+  <p>
+    Je me suismeme crée une trone.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/15/Capture-decran-2025-11-26-122223.png" height="273" width="363" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/15/responsive/Capture-decran-2025-11-26-122223-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/15/responsive/Capture-decran-2025-11-26-122223-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/15/responsive/Capture-decran-2025-11-26-122223-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/15/responsive/Capture-decran-2025-11-26-122223-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/15/responsive/Capture-decran-2025-11-26-122223-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/15/responsive/Capture-decran-2025-11-26-122223-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    Et personne d'autre que moi peut s'assoir dessus !
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>L&#x27;alsace, c&#x27;est la classe !</title>
+        <author>
+            <name>The Boss</name>
+        </author>
+        <link href="https://graines2tech.github.io/eg-virtuel/lalsace-cest-la-classe.html"/>
+        <id>https://graines2tech.github.io/eg-virtuel/lalsace-cest-la-classe.html</id>
+            <category term="minetest"/>
+            <category term="geo-localisation"/>
+
+        <updated>2019-03-29T19:38:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Moi, je dis: l'Alsace, c'est classe! J'ai mis dans mon serveur mine mes coins préférés en alsace: la cathédrale de Strasbourg, le parlement européen, le musée de l'automobile, l'écomusée d'Alsace, la de la liberté de colmar et le château du Haut-Koenigsbourg. Après, faut les géo-localiser&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Moi, je dis: l'Alsace, c'est classe!<br><br>J'ai mis dans mon serveur mine mes coins préférés en alsace: la cathédrale de Strasbourg, le parlement européen, le musée de l'automobile, l'écomusée d'Alsace, la de la liberté de colmar et le château du Haut-Koenigsbourg.<br><br>Après, faut les géo-localiser avec what3words. Genre la statue de la liberté de colmar, c'est main nettoyer plumage.<br><br>Si tu arrives à récupérer mes cartes marqueurs, il suffira de les remettre dans l'ordre et de les regarder en réalité augmentée pour voir les lettres du login de mon site pou et arrêter les virus.<br><br>Une carte marqueur, ça ressemble à ça:
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/16/Capture-decran-2025-11-26-122556.png" height="175" width="181" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/16/responsive/Capture-decran-2025-11-26-122556-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/16/responsive/Capture-decran-2025-11-26-122556-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/16/responsive/Capture-decran-2025-11-26-122556-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/16/responsive/Capture-decran-2025-11-26-122556-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/16/responsive/Capture-decran-2025-11-26-122556-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/16/responsive/Capture-decran-2025-11-26-122556-2xl.png 1920w">
+      <figcaption>humain.netttoyer.plumage</figcaption>
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pas le bon mot de passe</title>
+        <author>
+            <name>The Boss</name>
+        </author>
+        <link href="https://graines2tech.github.io/eg-virtuel/pas-le-bon-mot-de-passe.html"/>
+        <id>https://graines2tech.github.io/eg-virtuel/pas-le-bon-mot-de-passe.html</id>
+            <category term="minetest"/>
+            <category term="hacking"/>
+
+        <updated>2018-12-12T07:13:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Il y a des mots de passe trop facile à deviner. Voilà la liste des 20 mots de passe les plus utilisés en 2018 1&nbsp; 123456 2&nbsp; password 3&nbsp; 123456789 4&nbsp; 12345678 5&nbsp; 12345 6&nbsp; 111111 7&nbsp; 1234567 8&nbsp; sunshine 9&nbsp; qwerty 10&nbsp; iloveyou 11&nbsp;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Il y a des mots de passe trop facile à deviner.<br><br>Voilà la liste des 20 mots de passe les plus utilisés en 2018<br><br>1&nbsp; 123456<br><br>2&nbsp; password<br><br>3&nbsp; 123456789<br><br>4&nbsp; 12345678<br><br>5&nbsp; 12345<br><br>6&nbsp; 111111<br><br>7&nbsp; 1234567<br><br>8&nbsp; sunshine<br><br>9&nbsp; qwerty<br><br>10&nbsp; iloveyou<br><br>11&nbsp; princess<br><br>12&nbsp; admin<br><br>13&nbsp; welcome<br><br>14&nbsp; 666666<br><br>15&nbsp; abc123<br><br>16&nbsp; football<br><br>17&nbsp; 123123<br><br>18&nbsp; monkey<br><br>19&nbsp; 654321<br><br>20&nbsp; !@#$%^&amp;*<br>
+  </p>
+
+  <p>
+    Je me suis rendu compte que&nbsp; le mot de passe de mon compte&nbsp; sur mon serveur minetest est dedans ! Pas de bol...
+  </p>
+
+  <p>
+    Je regarde encore un peu et il va bien avec mon pseudo
+  </p>
+
+  <p>
+    Heureusement mon mot de passe n'est pas dans les 10 premiers...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Et oui, même les hackers ont des mot de passes pourris dans les 15 premiers de la liste :)
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>J&#x27;ai augmenté la realité !</title>
+        <author>
+            <name>The Boss</name>
+        </author>
+        <link href="https://graines2tech.github.io/eg-virtuel/jai-augmente-la-realite.html"/>
+        <id>https://graines2tech.github.io/eg-virtuel/jai-augmente-la-realite.html</id>
+            <category term="realité augmentée"/>
+            <category term="hacking"/>
+
+        <updated>2018-12-11T07:54:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    La réalité augmentée, c'est trop bien! J'ai créé des formes en 3D avec des lettres écrites dessus. Et j'ai créé un site qui permet de voir ces formes: il suffit d'aller sur le site (http://ar.is4ri.com/eg-virtuel.html), d'accepter qu'il utilise la caméra, et de passer une carte&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    La réalité augmentée, c'est trop bien!<br><br>J'ai créé des formes en 3D avec des lettres écrites dessus.<br><br>Et j'ai créé un site qui permet de voir ces formes: il suffit d'aller sur le site (http://ar.is4ri.com/eg-virtuel.html), d'accepter qu'il utilise la caméra, et de passer une carte marqueur devant la caméra pour voir la forme.<br><br>Une carte marqueur, c'est un peu comme un QR-code. Moi, j'ai utilisé des barcodes, comme celui là par exemple:<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/7/Capture-decran-2025-11-26-105628.png" height="190" width="193" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/7/responsive/Capture-decran-2025-11-26-105628-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    Et sur mes formes en 3D, j'ai mis lettres du mot de passe de mon sile pour lancer et arrêter mes vnus. Il suffit de mettre les cartes marqueurs dans l'ordre et de les lire avec le site de réalité augmentée pour avoir toutes les lettres.<br><br>Et pour avoir l'ordre des cartes, il faut suivre l'ordre des salles de mon serveur minetest, facile!
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Crypter des mots facilement</title>
+        <author>
+            <name>The Boss</name>
+        </author>
+        <link href="https://graines2tech.github.io/eg-virtuel/crypter-des-mots-facilement.html"/>
+        <id>https://graines2tech.github.io/eg-virtuel/crypter-des-mots-facilement.html</id>
+            <category term="hacking"/>
+
+        <updated>2018-05-10T06:30:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Avec la police wingdings, chaque lettre/chiffre/accent/etc. est transformé en un symbole. Regarde ça: Donc si tu veux dire salut, ca donnera ca : Si tu l'utilise pour un mot de passe, fait attention au majuscules et minuscules.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Avec la police wingdings, chaque lettre/chiffre/accent/etc. est transformé en un symbole.<br><br>Regarde ça:
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/8/Capture-decran-2025-11-26-110152.png" height="522" width="601" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110152-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110152-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110152-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110152-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110152-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110152-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    Donc si tu veux dire salut, ca donnera ca :
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/8/Capture-decran-2025-11-26-110254.png" height="146" width="519" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110254-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110254-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110254-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110254-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110254-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/8/responsive/Capture-decran-2025-11-26-110254-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    Si tu l'utilise pour un mot de passe, fait attention au majuscules et minuscules.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pixel Art</title>
+        <author>
+            <name>The Boss</name>
+        </author>
+        <link href="https://graines2tech.github.io/eg-virtuel/pixel-art.html"/>
+        <id>https://graines2tech.github.io/eg-virtuel/pixel-art.html</id>
+            <category term="pixel-art"/>
+
+        <updated>2018-03-06T10:30:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Catherine&nbsp; me fait decouvrir sa passion du moment, le pixel-art et j'en suis fan. Les djeuns adorent et en redemande. Moi aussi ;) Et voici, l'etoile Super Mario:&nbsp; J'ai trouvé comment coder des images pour faire des petits defis entre potes, je vous en reparlerai.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+
+  <p>
+    Catherine&nbsp; me fait decouvrir sa passion du moment, le pixel-art et j'en suis fan. Les djeuns adorent et en redemande. Moi aussi ;)
+  </p>
+
+  <p>
+    Et voici, l'etoile Super Mario:&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/9/Capture-decran-2025-11-26-113313.png" height="350" width="351" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/9/responsive/Capture-decran-2025-11-26-113313-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/9/responsive/Capture-decran-2025-11-26-113313-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/9/responsive/Capture-decran-2025-11-26-113313-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/9/responsive/Capture-decran-2025-11-26-113313-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/9/responsive/Capture-decran-2025-11-26-113313-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/9/responsive/Capture-decran-2025-11-26-113313-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    J'ai trouvé comment coder des images pour faire des petits defis entre potes, je vous en reparlerai.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Joyeux Noël: mon serveur minetest enfin en ligne!</title>
+        <author>
+            <name>The Boss</name>
+        </author>
+        <link href="https://graines2tech.github.io/eg-virtuel/joyeux-noel-mon-serveur-minetest-enfin-en-ligne.html"/>
+        <id>https://graines2tech.github.io/eg-virtuel/joyeux-noel-mon-serveur-minetest-enfin-en-ligne.html</id>
+            <category term="minetest"/>
+
+        <updated>2018-02-25T10:43:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Salut les gens, et pour te souhaiter un joyeux noël, je t'offre l'adresse de mon serveur minetest: Je t'attends sur place. Enfin, c'est toi qui m'attends: pour sortir de la pièce d'arrivée, il faut être au moins 4 joueurs connectés, dont moi! Voilà le plan:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Salut les gens,<br><br>et pour te souhaiter un joyeux noël, je t'offre l'adresse de mon serveur minetest:<br><br>Je t'attends sur place. Enfin, c'est toi qui m'attends: pour sortir de la pièce d'arrivée, il faut être au moins 4 joueurs connectés, dont moi!<br><br>Voilà le plan:
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://graines2tech.github.io/eg-virtuel/media/posts/5/Capture-decran-2025-11-26-104153.png" height="315" width="315" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://graines2tech.github.io/eg-virtuel/media/posts/5/responsive/Capture-decran-2025-11-26-104153-xs.png 640w ,https://graines2tech.github.io/eg-virtuel/media/posts/5/responsive/Capture-decran-2025-11-26-104153-sm.png 768w ,https://graines2tech.github.io/eg-virtuel/media/posts/5/responsive/Capture-decran-2025-11-26-104153-md.png 1024w ,https://graines2tech.github.io/eg-virtuel/media/posts/5/responsive/Capture-decran-2025-11-26-104153-lg.png 1366w ,https://graines2tech.github.io/eg-virtuel/media/posts/5/responsive/Capture-decran-2025-11-26-104153-xl.png 1600w ,https://graines2tech.github.io/eg-virtuel/media/posts/5/responsive/Capture-decran-2025-11-26-104153-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    La petite salle au centre, c'est la salle d'attente. Tout le monde est bloqué dans cette salle tant que je ne suis pas connecté.<br><br>Ensuite, il y a 6 salles qui contiennent des photos de lieu en Alsace. Avec les cartes marqueurs et la réalité augmentée, tu pourras retrouver arrêter les virus.<br><br>Enfin, la toute dernière salle en haut à gauche sur le plan contient le mot de passe crypté de mon site. Pour le décrypter, c'est facile: un peu transformer les symboles en lettres, et le tour est joué!
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

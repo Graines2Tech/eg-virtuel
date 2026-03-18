@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://graines2tech.github.io/eg-virtuel/sitemap.xml
